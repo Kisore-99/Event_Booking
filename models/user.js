@@ -15,8 +15,6 @@ const userSchema= mongoose.Schema({
             type: Schema.Types.ObjectId,
             ref: 'Event' //there is a connection with this event
         }
-
-
     ]
 });
 
