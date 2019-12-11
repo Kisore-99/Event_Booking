@@ -58,4 +58,4 @@ schema{
     mutation: RootMutation
 }
 `
-)
+);
